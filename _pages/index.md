@@ -17,6 +17,8 @@ permalink: /
 
 [[tech|Tech Stack]]
 
+[[small|Small Projects]]
+
 
 <strong>Recently updated notes</strong>
 
