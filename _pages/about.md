@@ -6,5 +6,8 @@ permalink: /about
 
 *Junghoon Park*
 
-Git : <github.com/invictooth>
+Git : [Link](https://github.com/InvicTooth?tab=repositories)
+
+GitLab : [Link](https://gitlab.com/pjhkaka)
+
 Email : <pjhkaka@gmail.com>
