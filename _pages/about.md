@@ -4,6 +4,7 @@ title: About
 permalink: /about
 ---
 
-*This is an about page.*
+*Junghoon Park*
 
-Feel free to tell the world about what you love! 😍
+Git : <github.com/invictooth>
+Email : <pjhkaka@gmail.com>
