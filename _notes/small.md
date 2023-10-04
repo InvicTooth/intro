@@ -9,6 +9,7 @@ title: Small Projects
 
 [Github](https://github.com/InvicTooth/mbti)
 
+ci/cd : [vercel(web)](https://mbti-eight.vercel.app/)
 planned to firebase auth, connect with rust server, openai
 
 ---

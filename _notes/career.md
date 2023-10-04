@@ -22,7 +22,7 @@ title : Career
 
 > [GxG.style](https://gxg.style) (not properly working)
 >
-> NFT marketplace, hub, community, entertainment
+> NFT marketplace, hub, community, entertainment, cloud streaming(ipfs)
 >
 > > ![i](/assets/career/hypernest/nft.png)
 >
