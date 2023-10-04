@@ -5,11 +5,11 @@ title : Tech Stack
 Frontend
 > Blazor Webassembly
 >
-> Vanilla JS, Html, CSS
+> Javscript, Html, CSS
 >
 
 Backend
-> C# .Net
+> C#.Net
 >
 > Nodejs
 >
