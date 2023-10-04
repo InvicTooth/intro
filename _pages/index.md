@@ -9,15 +9,7 @@ permalink: /
 
 ---
 
-> beginner
-
-[[education|Education]]
-
-[[career|Career]]
-
-[[tech|Tech Stack]]
-
-[[small|Small Projects]]
+[[whoami|Who Am I?]]
 
 
 <strong>Recently updated notes</strong>
