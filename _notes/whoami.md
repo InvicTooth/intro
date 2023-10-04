@@ -10,7 +10,7 @@ title : Who Am I?
 >
 > interested in ai, rust, flutter
 >
-> intp, dreamer, meditation, yoga, peace, music, ralax, house, mindfulness, walk, consciousness, transcendance, brain,
+> intp, dreamer, meditation, yoga, peace, music, ralax, house, mindfulness, walk, consciousness, transcendance, brain, neuroplasticity,
 
 [[education|Education]]
 
