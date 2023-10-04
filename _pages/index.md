@@ -5,7 +5,9 @@ id: home
 permalink: /
 ---
 
-## Junghoon Park
+# Junghoon Park
+
+---
 
 > beginner
 
