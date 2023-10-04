@@ -6,6 +6,8 @@ title : Career
 
 > [PharmNutrition](https://jj447933.cafe24.com/) 외주
 >
+> html css javascript
+>
 > 디자인 및 레이아웃 수정
 >
 > > ![as](../assets/career/pharm_nutrition/product.png)
